@@ -9,9 +9,11 @@ We were asked to use data from the Lending Club to build and evaluate logistic r
 
 Using the Lending Club data we did the following:
 
--Oversampled using Naive Random Oversampler and SMOTE algorithms
--Undersampled the data using the Cluster Centroids algorithm
--Over and under sampled the data using a combination SMOTEENN algorithm
+1. Oversampled using Naive Random Oversampler and SMOTE algorithms
+
+2. Undersampled the data using the Cluster Centroids algorithm
+
+3. Over and under sampled the data using a combination SMOTEENN algorithm
 
 #### Questions
 
@@ -22,14 +24,15 @@ Using the Lending Club data we did the following:
 3. Which model had the best geometric mean score? Again, SMOTE oversampling had the best geometric mean score.
 
 
-#### Ensemble Learning
+#### Ensemble Learning 
 
 We were asked to train and compare two different ensemble classifiers to predict loan risk and evaluate each model. 
 
 Using the Lending Club data we did the following:
 
--Used the Balanced Random Forest Classifier
--Used the Easy Ensemble Classifier
+1. Used the Balanced Random Forest Classifier
+
+2. Used the Easy Ensemble Classifier
 
 #### Questions
 
